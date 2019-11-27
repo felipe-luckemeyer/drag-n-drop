@@ -1,2 +1,0 @@
-# DragNDrop
-Created with CodeSandbox
